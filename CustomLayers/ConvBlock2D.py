@@ -1,4 +1,4 @@
-from keras.src.layers.normalization.batch_normalization import BatchNormalization
+from keras.src.layers.normalization.batch_normalization import BatchNormalization , add
 from keras.src.layers.convolutional.conv2d import Conv2D
 
 kernel_initializer = 'he_uniform'
